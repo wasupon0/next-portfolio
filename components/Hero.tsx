@@ -43,6 +43,7 @@ const Hero = () => {
               position="right"
             />
           </a>
+          <br />
         </div>
       </div>
     </div>
